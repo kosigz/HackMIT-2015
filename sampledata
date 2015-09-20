@@ -1,0 +1,12 @@
+[{
+	id: 				1234125,	
+	item_id:			1,
+	name:				"banana",	
+	expiration_date:	1442709384303
+},
+{
+	id: 				1234126,
+	item_id:			2,
+	name:				"apple",
+	expiration_date:	1442709372101
+}]
