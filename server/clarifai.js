@@ -2,7 +2,9 @@
 // (1) Read the user's upload. 
 // (2) Save it in the file system.
 // (3) Give it a public URL.
-// (4) 
+// (4) Run the classification on the URL.
+// (5) Send back the classification.
+// (6) Delete the file.
 
 exports.handleImageUpload = function(req, res) {
 	// Upload image.

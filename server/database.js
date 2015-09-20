@@ -1,5 +1,5 @@
 // Link Files
-var clarifai = require(./clarifai);
+var clarifai = require('./clarifai');
 
 // Retrieve MongoClient
 var MongoClient = require('mongodb').MongoClient;

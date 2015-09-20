@@ -1,6 +1,6 @@
 // Link Files
-var db = require('./database');
-var clarifai = require('./clarifai')
+var db = require('./server/database');
+var clarifai = require('./server/clarifai')
 
 // Init Express
 var express = require('express');
